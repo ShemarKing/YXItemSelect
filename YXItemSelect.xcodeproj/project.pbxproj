@@ -12,6 +12,35 @@
 		18EB145820D2494F00DF938F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EB145620D2494F00DF938F /* LaunchScreen.storyboard */; };
 		18EB145B20D2494F00DF938F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB145A20D2494F00DF938F /* main.m */; };
 		18EB146520D2494F00DF938F /* YXItemSelectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB146420D2494F00DF938F /* YXItemSelectTests.m */; };
+		18EB147120D249B900DF938F /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB147020D249B800DF938F /* RootViewController.m */; };
+		18EB147220D249B900DF938F /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB147020D249B800DF938F /* RootViewController.m */; };
+		18EB147D20D24AC100DF938F /* YXButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB147C20D24AC100DF938F /* YXButton.m */; };
+		18EB147E20D24AC100DF938F /* YXButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB147C20D24AC100DF938F /* YXButton.m */; };
+		18EB148420D24D1B00DF938F /* YXItemSelVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB148320D24D1B00DF938F /* YXItemSelVC.m */; };
+		18EB148520D24D1B00DF938F /* YXItemSelVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB148320D24D1B00DF938F /* YXItemSelVC.m */; };
+		18EB148920D251A200DF938F /* YXSelItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB148720D251A200DF938F /* YXSelItemCell.m */; };
+		18EB148A20D251A200DF938F /* YXSelItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB148720D251A200DF938F /* YXSelItemCell.m */; };
+		18EB148B20D251A200DF938F /* YXSelItemCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18EB148820D251A200DF938F /* YXSelItemCell.xib */; };
+		18EB148C20D251A200DF938F /* YXSelItemCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18EB148820D251A200DF938F /* YXSelItemCell.xib */; };
+		18EB148F20D25DC000DF938F /* YXLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB148E20D25DC000DF938F /* YXLabel.m */; };
+		18EB149020D25DC000DF938F /* YXLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB148E20D25DC000DF938F /* YXLabel.m */; };
+		18EB149920D3491B00DF938F /* icon_choose_sel@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149320D3491A00DF938F /* icon_choose_sel@3x.png */; };
+		18EB149A20D3491B00DF938F /* icon_choose_sel@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149320D3491A00DF938F /* icon_choose_sel@3x.png */; };
+		18EB149B20D3491B00DF938F /* icon_choose_sel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149420D3491B00DF938F /* icon_choose_sel@2x.png */; };
+		18EB149C20D3491B00DF938F /* icon_choose_sel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149420D3491B00DF938F /* icon_choose_sel@2x.png */; };
+		18EB149D20D3491B00DF938F /* icon_choose@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149520D3491B00DF938F /* icon_choose@2x.png */; };
+		18EB149E20D3491B00DF938F /* icon_choose@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149520D3491B00DF938F /* icon_choose@2x.png */; };
+		18EB149F20D3491B00DF938F /* icon_choose_sel.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149620D3491B00DF938F /* icon_choose_sel.png */; };
+		18EB14A020D3491B00DF938F /* icon_choose_sel.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149620D3491B00DF938F /* icon_choose_sel.png */; };
+		18EB14A120D3491B00DF938F /* icon_choose@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149720D3491B00DF938F /* icon_choose@3x.png */; };
+		18EB14A220D3491B00DF938F /* icon_choose@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149720D3491B00DF938F /* icon_choose@3x.png */; };
+		18EB14A320D3491B00DF938F /* icon_choose.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149820D3491B00DF938F /* icon_choose.png */; };
+		18EB14A420D3491B00DF938F /* icon_choose.png in Resources */ = {isa = PBXBuildFile; fileRef = 18EB149820D3491B00DF938F /* icon_choose.png */; };
+		18EB14A720D34CF100DF938F /* ItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB14A620D34CF100DF938F /* ItemModel.m */; };
+		18EB14A820D34CF100DF938F /* ItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB14A620D34CF100DF938F /* ItemModel.m */; };
+		18EB14AB20D38FDD00DF938F /* UIView+EX.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB14AA20D38FDC00DF938F /* UIView+EX.m */; };
+		18EB14AC20D38FDD00DF938F /* UIView+EX.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EB14AA20D38FDC00DF938F /* UIView+EX.m */; };
+		EEF67AD992BCAFCB12800CD6 /* libPods-YXItemSelect.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A7E03FACE890E7677F5A7FEF /* libPods-YXItemSelect.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -25,6 +54,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0E5D0FC73C8DACC77F1B7274 /* Pods-YXItemSelect.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YXItemSelect.release.xcconfig"; path = "Pods/Target Support Files/Pods-YXItemSelect/Pods-YXItemSelect.release.xcconfig"; sourceTree = "<group>"; };
+		1863207720D8D81100C48694 /* YXItemSelect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YXItemSelect.h; sourceTree = "<group>"; };
 		18EB144E20D2494C00DF938F /* YXItemSelect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YXItemSelect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EB145120D2494C00DF938F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		18EB145220D2494C00DF938F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -35,6 +66,30 @@
 		18EB146020D2494F00DF938F /* YXItemSelectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YXItemSelectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EB146420D2494F00DF938F /* YXItemSelectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YXItemSelectTests.m; sourceTree = "<group>"; };
 		18EB146620D2494F00DF938F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18EB146F20D249B800DF938F /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		18EB147020D249B800DF938F /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		18EB147B20D24AC100DF938F /* YXButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YXButton.h; sourceTree = "<group>"; };
+		18EB147C20D24AC100DF938F /* YXButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YXButton.m; sourceTree = "<group>"; };
+		18EB148220D24D1B00DF938F /* YXItemSelVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YXItemSelVC.h; sourceTree = "<group>"; };
+		18EB148320D24D1B00DF938F /* YXItemSelVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YXItemSelVC.m; sourceTree = "<group>"; };
+		18EB148620D251A200DF938F /* YXSelItemCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YXSelItemCell.h; sourceTree = "<group>"; };
+		18EB148720D251A200DF938F /* YXSelItemCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YXSelItemCell.m; sourceTree = "<group>"; };
+		18EB148820D251A200DF938F /* YXSelItemCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = YXSelItemCell.xib; sourceTree = "<group>"; };
+		18EB148D20D25DC000DF938F /* YXLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YXLabel.h; sourceTree = "<group>"; };
+		18EB148E20D25DC000DF938F /* YXLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YXLabel.m; sourceTree = "<group>"; };
+		18EB149120D266D100DF938F /* GlobalHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GlobalHeader.h; sourceTree = "<group>"; };
+		18EB149320D3491A00DF938F /* icon_choose_sel@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_choose_sel@3x.png"; sourceTree = "<group>"; };
+		18EB149420D3491B00DF938F /* icon_choose_sel@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_choose_sel@2x.png"; sourceTree = "<group>"; };
+		18EB149520D3491B00DF938F /* icon_choose@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_choose@2x.png"; sourceTree = "<group>"; };
+		18EB149620D3491B00DF938F /* icon_choose_sel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_choose_sel.png; sourceTree = "<group>"; };
+		18EB149720D3491B00DF938F /* icon_choose@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_choose@3x.png"; sourceTree = "<group>"; };
+		18EB149820D3491B00DF938F /* icon_choose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_choose.png; sourceTree = "<group>"; };
+		18EB14A520D34CF100DF938F /* ItemModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ItemModel.h; sourceTree = "<group>"; };
+		18EB14A620D34CF100DF938F /* ItemModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ItemModel.m; sourceTree = "<group>"; };
+		18EB14A920D38FDC00DF938F /* UIView+EX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+EX.h"; sourceTree = "<group>"; };
+		18EB14AA20D38FDC00DF938F /* UIView+EX.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+EX.m"; sourceTree = "<group>"; };
+		A7E03FACE890E7677F5A7FEF /* libPods-YXItemSelect.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YXItemSelect.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B520FD102A5E08D0AB5BABDD /* Pods-YXItemSelect.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YXItemSelect.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YXItemSelect/Pods-YXItemSelect.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +97,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEF67AD992BCAFCB12800CD6 /* libPods-YXItemSelect.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +117,8 @@
 				18EB145020D2494C00DF938F /* YXItemSelect */,
 				18EB146320D2494F00DF938F /* YXItemSelectTests */,
 				18EB144F20D2494C00DF938F /* Products */,
+				5D48A2D8181079933847DE5D /* Pods */,
+				CEE6A120B9E7D56556C625D2 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -76,12 +134,15 @@
 		18EB145020D2494C00DF938F /* YXItemSelect */ = {
 			isa = PBXGroup;
 			children = (
+				18EB147A20D24AA600DF938F /* YXItemSelectModule */,
 				18EB145120D2494C00DF938F /* AppDelegate.h */,
 				18EB145220D2494C00DF938F /* AppDelegate.m */,
 				18EB145420D2494F00DF938F /* Assets.xcassets */,
 				18EB145620D2494F00DF938F /* LaunchScreen.storyboard */,
 				18EB145920D2494F00DF938F /* Info.plist */,
 				18EB145A20D2494F00DF938F /* main.m */,
+				18EB146F20D249B800DF938F /* RootViewController.h */,
+				18EB147020D249B800DF938F /* RootViewController.m */,
 			);
 			path = YXItemSelect;
 			sourceTree = "<group>";
@@ -95,6 +156,91 @@
 			path = YXItemSelectTests;
 			sourceTree = "<group>";
 		};
+		18EB147920D24AA600DF938F /* CustomView */ = {
+			isa = PBXGroup;
+			children = (
+				18EB14A920D38FDC00DF938F /* UIView+EX.h */,
+				18EB14AA20D38FDC00DF938F /* UIView+EX.m */,
+				18EB147B20D24AC100DF938F /* YXButton.h */,
+				18EB147C20D24AC100DF938F /* YXButton.m */,
+				18EB148D20D25DC000DF938F /* YXLabel.h */,
+				18EB148E20D25DC000DF938F /* YXLabel.m */,
+				18EB149120D266D100DF938F /* GlobalHeader.h */,
+				1863207720D8D81100C48694 /* YXItemSelect.h */,
+			);
+			path = CustomView;
+			sourceTree = "<group>";
+		};
+		18EB147A20D24AA600DF938F /* YXItemSelectModule */ = {
+			isa = PBXGroup;
+			children = (
+				18EB147920D24AA600DF938F /* CustomView */,
+				18EB149220D3487600DF938F /* Resource */,
+				18EB148020D24D0800DF938F /* Controller */,
+				18EB147F20D24D0700DF938F /* Model */,
+				18EB148120D24D0800DF938F /* View */,
+			);
+			path = YXItemSelectModule;
+			sourceTree = "<group>";
+		};
+		18EB147F20D24D0700DF938F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				18EB14A520D34CF100DF938F /* ItemModel.h */,
+				18EB14A620D34CF100DF938F /* ItemModel.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		18EB148020D24D0800DF938F /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				18EB148220D24D1B00DF938F /* YXItemSelVC.h */,
+				18EB148320D24D1B00DF938F /* YXItemSelVC.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		18EB148120D24D0800DF938F /* View */ = {
+			isa = PBXGroup;
+			children = (
+				18EB148620D251A200DF938F /* YXSelItemCell.h */,
+				18EB148720D251A200DF938F /* YXSelItemCell.m */,
+				18EB148820D251A200DF938F /* YXSelItemCell.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		18EB149220D3487600DF938F /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				18EB149620D3491B00DF938F /* icon_choose_sel.png */,
+				18EB149420D3491B00DF938F /* icon_choose_sel@2x.png */,
+				18EB149320D3491A00DF938F /* icon_choose_sel@3x.png */,
+				18EB149820D3491B00DF938F /* icon_choose.png */,
+				18EB149520D3491B00DF938F /* icon_choose@2x.png */,
+				18EB149720D3491B00DF938F /* icon_choose@3x.png */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		5D48A2D8181079933847DE5D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B520FD102A5E08D0AB5BABDD /* Pods-YXItemSelect.debug.xcconfig */,
+				0E5D0FC73C8DACC77F1B7274 /* Pods-YXItemSelect.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		CEE6A120B9E7D56556C625D2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A7E03FACE890E7677F5A7FEF /* libPods-YXItemSelect.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -102,9 +248,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 18EB146920D2494F00DF938F /* Build configuration list for PBXNativeTarget "YXItemSelect" */;
 			buildPhases = (
+				457F721AC543F355CE3A13F0 /* [CP] Check Pods Manifest.lock */,
 				18EB144A20D2494C00DF938F /* Sources */,
 				18EB144B20D2494C00DF938F /* Frameworks */,
 				18EB144C20D2494C00DF938F /* Resources */,
+				78EFAA05EB7707E901DA323D /* [CP] Embed Pods Frameworks */,
+				DDF8B531CC8289B9BD5985E4 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -175,8 +324,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18EB149920D3491B00DF938F /* icon_choose_sel@3x.png in Resources */,
+				18EB14A120D3491B00DF938F /* icon_choose@3x.png in Resources */,
 				18EB145520D2494F00DF938F /* Assets.xcassets in Resources */,
+				18EB149D20D3491B00DF938F /* icon_choose@2x.png in Resources */,
 				18EB145820D2494F00DF938F /* LaunchScreen.storyboard in Resources */,
+				18EB149F20D3491B00DF938F /* icon_choose_sel.png in Resources */,
+				18EB14A320D3491B00DF938F /* icon_choose.png in Resources */,
+				18EB149B20D3491B00DF938F /* icon_choose_sel@2x.png in Resources */,
+				18EB148B20D251A200DF938F /* YXSelItemCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -184,18 +340,83 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18EB14A420D3491B00DF938F /* icon_choose.png in Resources */,
+				18EB149E20D3491B00DF938F /* icon_choose@2x.png in Resources */,
+				18EB149A20D3491B00DF938F /* icon_choose_sel@3x.png in Resources */,
+				18EB14A020D3491B00DF938F /* icon_choose_sel.png in Resources */,
+				18EB14A220D3491B00DF938F /* icon_choose@3x.png in Resources */,
+				18EB148C20D251A200DF938F /* YXSelItemCell.xib in Resources */,
+				18EB149C20D3491B00DF938F /* icon_choose_sel@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		457F721AC543F355CE3A13F0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-YXItemSelect-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		78EFAA05EB7707E901DA323D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YXItemSelect/Pods-YXItemSelect-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DDF8B531CC8289B9BD5985E4 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YXItemSelect/Pods-YXItemSelect-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		18EB144A20D2494C00DF938F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18EB148F20D25DC000DF938F /* YXLabel.m in Sources */,
 				18EB145B20D2494F00DF938F /* main.m in Sources */,
 				18EB145320D2494C00DF938F /* AppDelegate.m in Sources */,
+				18EB148920D251A200DF938F /* YXSelItemCell.m in Sources */,
+				18EB14AB20D38FDD00DF938F /* UIView+EX.m in Sources */,
+				18EB147D20D24AC100DF938F /* YXButton.m in Sources */,
+				18EB148420D24D1B00DF938F /* YXItemSelVC.m in Sources */,
+				18EB14A720D34CF100DF938F /* ItemModel.m in Sources */,
+				18EB147120D249B900DF938F /* RootViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -203,7 +424,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18EB147E20D24AC100DF938F /* YXButton.m in Sources */,
+				18EB148520D24D1B00DF938F /* YXItemSelVC.m in Sources */,
+				18EB14A820D34CF100DF938F /* ItemModel.m in Sources */,
+				18EB147220D249B900DF938F /* RootViewController.m in Sources */,
+				18EB148A20D251A200DF938F /* YXSelItemCell.m in Sources */,
 				18EB146520D2494F00DF938F /* YXItemSelectTests.m in Sources */,
+				18EB149020D25DC000DF938F /* YXLabel.m in Sources */,
+				18EB14AC20D38FDD00DF938F /* UIView+EX.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -341,6 +569,7 @@
 		};
 		18EB146A20D2494F00DF938F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B520FD102A5E08D0AB5BABDD /* Pods-YXItemSelect.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -357,6 +586,7 @@
 		};
 		18EB146B20D2494F00DF938F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0E5D0FC73C8DACC77F1B7274 /* Pods-YXItemSelect.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
